@@ -1,0 +1,15 @@
+# Dependencies
+node_modules
+/dist
+
+# Firebase service account & credentials
+serviceAccountKey.json
+*.pem
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode
+.idea
+*.log
